@@ -4,9 +4,8 @@
 <br>
 
 <p> I'm an IT <strong>Fresher</strong> with a passion for building <strong>highly usable web and mobile applications </strong>.</p>
-
-<img src="https://res.cloudinary.com/dmtopd6ps/image/upload/v1636939773/DSC_7377_tan_zvbqzk.jpg" width="300px">
-
+<img src="https://res.cloudinary.com/dmtopd6ps/image/upload/v1636939773/DSC_7377_tan_zvbqzk.jpg" width="250px">
+<br>
 <br>
   <a href="https://github.com/tandev2k" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=tandev2k&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="Tandev2k's Stats" >
