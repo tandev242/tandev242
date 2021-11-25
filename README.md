@@ -6,11 +6,9 @@
 <p> I'm an IT <strong>Fresher</strong> with a life motto is <strong>every accomplishment starts with the decision to try</strong>.</p>
 <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/v1636939773/DSC_7377_tan_zvbqzk.jpg" width="250px">
 <br>
-<!-- <br>
-  <a href="https://github.com/tandev2k" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=tandev2k&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="Tandev2k's Stats" >
-  </a>
-<br> -->
+  
+  ![Tan's github stats](https://github-readme-stats.vercel.app/api?username=tandev2k&show_icons=true&hide_border=true)
+  
 <br>
   <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/c_scale,w_250/v1636940297/quiz_result_r92_dao0fz.gif" width="250x"/>
   <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/c_scale,w_250/v1636941420/a_txsscl.gif" width="250px"/>
@@ -20,6 +18,8 @@
 </div>
 ------
 
+
 Credit: [tandev2k](https://github.com/tandev2k)
 
 Last Edited on: 15/11/2021
+
