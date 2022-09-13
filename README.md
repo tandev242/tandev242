@@ -3,7 +3,7 @@
 
 <br>
 
-<p> I'm an IT <strong>Fresher</strong> with a life motto is <strong>every accomplishment starts with the decision to try</strong>.</p>
+<p> I'm an IT <strong>junior</strong> with a life motto is <strong>every accomplishment starts with the decision to try</strong>.</p>
 <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/v1636939773/DSC_7377_tan_zvbqzk.jpg" width="250px">
 <br>
   
