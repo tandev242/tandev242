@@ -11,7 +11,6 @@
   
 <br>
   <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/c_scale,w_250/v1636940297/quiz_result_r92_dao0fz.gif" width="250x"/>
-  <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/c_scale,w_250/v1636941420/a_txsscl.gif" width="250px"/>
   <img src="https://res.cloudinary.com/dmtopd6ps/image/upload/c_scale,h_140/v1636941587/13662be7764f37ce59f35f3d3f71f9a1_ftnunc.gif" />
   &emsp;
 <br>
